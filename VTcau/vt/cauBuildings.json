@@ -1,0 +1,208 @@
+{
+  "buildings": [
+    {
+      "id": 1,
+      "name": "Paschal Center",
+      "longitude": -84.4146938,
+      "latitude": 33.7542475
+    },
+    {
+      "id": 2,
+      "name": "Heritage Commons",
+      "longitude": -84.412995,
+      "latitude": 33.753894
+    },
+    {
+      "id": 3,
+      "name": "Thomas Cole Research Center for Science and Technology",
+      "longitude": -84.4139103,
+      "latitude": 33.7477344
+    },
+    {
+      "id": 4,
+      "name": "Sage-Bacote Hall",
+      "longitude": -84.4139461,
+      "latitude": 33.7473315
+    },
+    {
+      "id": 5,
+      "name": "Albert H. Watts Alumni House",
+      "longitude": -84.4134783,
+      "latitude": 33.7495238
+    },
+    {
+      "id": 6,
+      "name": "Trevor Arnett Hall",
+      "longitude": -84.4134338,
+      "latitude": 33.7473318
+    },
+    {
+      "id": 7,
+      "name": "Harkness Hall",
+      "longitude": -84.4131219,
+      "latitude": 33.7487437
+    },
+    {
+      "id": 8,
+      "name": "Wright Hall",
+      "longitude": -84.4131389,
+      "latitude": 33.7482535
+    },
+    {
+      "id": 9,
+      "name": "Clement Hall",
+      "longitude": -84.4131255,
+      "latitude": 33.7477874
+    },
+    {
+      "id": 10,
+      "name": "McPheeters-Dennis Hall",
+      "longitude": -84.4124563,
+      "latitude": 33.7490382
+    },
+    {
+      "id": 11,
+      "name": "Haven-Warren Hall",
+      "longitude": -84.4125095,
+      "latitude": 33.7483541
+    },
+    {
+      "id": 12,
+      "name": "Ware Academic Center",
+      "longitude": -84.4125091,
+      "latitude": 33.7476746
+    },
+    {
+      "id": 13,
+      "name": "Career Planning and Placement Center",
+      "longitude": -84.413017,
+      "latitude": 33.7502497
+    },
+    {
+      "id": 14,
+      "name": "Undergraduate Academic Services",
+      "longitude": -84.4131925,
+      "latitude": 33.7501983
+    },
+    {
+      "id": 15,
+      "name": "Faculty and Staff Parking",
+      "longitude": -84.4130653,
+      "latitude": 33.749768
+    },
+    {
+      "id": 16,
+      "name": "Title III",
+      "longitude": -84.4130001,
+      "latitude": 33.7501342
+    },
+    {
+      "id": 17,
+      "name": "CAU Suites/ Student Health Services",
+      "longitude": -84.4116536,
+      "latitude": 33.7514903
+    },
+    {
+      "id": 18,
+      "name": "Pfeiffer Hall",
+      "longitude": -84.41182,
+      "latitude": 33.7488167
+    },
+    {
+      "id": 19,
+      "name": "Tanner-Turner Building",
+      "longitude": -84.4113807,
+      "latitude": 33.7487756
+    },
+    {
+      "id": 20,
+      "name": "Thayer Hall",
+      "longitude": -84.411382,
+      "latitude": 33.7483596
+    },
+    {
+      "id": 21,
+      "name": "Merner Hall",
+      "longitude": -84.4118372,
+      "latitude": 33.7479193
+    },
+    {
+      "id": 22,
+      "name": "Kresge Hall",
+      "longitude": -84.4113168,
+      "latitude": 33.7478836
+    },
+    {
+      "id": 23,
+      "name": "Holmes Hall",
+      "longitude": -84.4115529,
+      "latitude": 33.7474687
+    },
+    {
+      "id": 24,
+      "name": "Vivian Wilson Henderson Center",
+      "longitude": -84.4087105,
+      "latitude": 33.7489579
+    },
+    {
+      "id": 25,
+      "name": "Cornelius Henderson Student Center",
+      "longitude": -84.4124726,
+      "latitude": 33.7497162
+    },
+    {
+      "id": 26,
+      "name": "Robert W. Woodruff Library",
+      "longitude": -84.4133701,
+      "latitude": 33.7515581
+    },
+    {
+      "id": 27,
+      "name": "CAU Suites",
+      "longitude": -84.4122383,
+      "latitude": 33.7513804
+    },
+    {
+      "id": 28,
+      "name": "Ware Hall",
+      "longitude": -84.4125084,
+      "latitude": 33.7535184
+    },
+    {
+      "id": 29,
+      "name": "Bumstead Hall",
+      "longitude": -84.4122777,
+      "latitude": 33.7528583
+    },
+    {
+      "id": 30,
+      "name": "Beckwith Hall",
+      "longitude": -84.410822,
+      "latitude": 33.7519054
+    },
+    {
+      "id": 31,
+      "name": "Knowles Hall",
+      "longitude": -84.4103553,
+      "latitude": 33.7519098
+    },
+    {
+      "id": 32,
+      "name": "Oglethorpe Hall",
+      "longitude": -84.4082094,
+      "latitude": 33.7538015
+    },
+    {
+      "id": 33,
+      "name": "Brawley Hall",
+      "longitude": -84.4132838,
+      "latitude": 33.7527537
+    },
+    {
+      "id": 34,
+      "name": "Clark Atlanta Stadium",
+      "longitude": -84.4114653,
+      "latitude": 33.7533558
+    }
+  ]
+}
