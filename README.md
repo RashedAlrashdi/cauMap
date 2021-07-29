@@ -11,7 +11,7 @@ The idea was that new students could get to their classes faster.
 ![Alt Text](https://github.com/rashedalrashdi/cauMap/blob/master/CAU%20app%20screenshots/Taps%20options.png)
 ![Alt Text](https://github.com/rashedalrashdi/cauMap/blob/master/CAU%20app%20screenshots/Campus%20times.png)
 ![Alt Text](https://github.com/rashedalrashdi/cauMap/blob/master/CAU%20app%20screenshots/Campus%20map.png)
-![Alt Text](https://github.com/rashedalrashdi/cauMap/blob/master/CAU%20app%20screenshots/Home%20page.png)
+![Alt Text](https://github.com/rashedalrashdi/cauMap/blob/master/CAU%20app%20screenshots/Admission%20tap.png)
 ![Alt Text](https://github.com/rashedalrashdi/cauMap/blob/master/CAU%20app%20screenshots/Home%20page.png)
 ![Alt Text](https://github.com/rashedalrashdi/cauMap/blob/master/CAU%20app%20screenshots/Home%20page.png)
 ![Alt Text](https://github.com/rashedalrashdi/cauMap/blob/master/CAU%20app%20screenshots/Home%20page.png)
