@@ -1,9 +1,24 @@
 # Clark Atlanta University Application.
 
-This was my graduation project. My colleague and I decided to revamp Clark Atlanta University app.
-Technologies we used for the project are: Ionic and Angular frameworks which allow us to utilize JavaScript, HTML, and CSS.
-Since I have an experience with ArcGIS pro from Geographic Information System class I took a year before my graduation.
-My job was creating a map for CAU that shows its buildings. The user can navigate and choose which bulding they wish to go, and it should take them there.
+The idea behind the project was to revamp old CAU app. Therefore, my colleague and I decided to form a team and build an application for Clark Atlanta University. 
+The app was completed with Angular and Ionic frameworks which allow us to use JavaScript, HTML, and CSS. 
+It contains three tabs: Home tab, Virtual tour tab, and Virtual paw card tab.
+
+My task was as follow:
+First, creating a CAU map and collecting data.
+Second, analyzing and geocoding the data.
+Third, utilizing ArcGIS software and its API.
+lastly, implementing the whole process to the app.
+
+Features of the app:
+1. ArcGIS maps.
+2. Firebase Authentication (backend).
+3. In-App-Browsers.
+4. Navigating to a specific location.
+5. Call number functions.
+6. Application Routing.
+7. NFC Technology.
+8. RFID read and write Module..
 
 
 
