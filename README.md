@@ -1,4 +1,5 @@
-# Clark Atlanta University
+# Clark Atlanta University Application.
+
 This was my graduation project. My colleague and I decided to revamp Clark Atlanta University app.
 Technologies we used for the project are, Ionic and Angular frameworks which allow us to utilize JavaScript, HTML, and CSS.
 Since I have an experience with ArcGIS pro from GIS class I took a year before my graduation.
