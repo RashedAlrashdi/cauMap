@@ -11,12 +11,11 @@ lastly, implementing the whole process to the app.
 Features of the app:
 1. ArcGIS maps.
 2. Firebase Authentication (backend).
-3. In-App-Browsers.
-4. Navigating to a specific location.
-5. Call number functions.
-6. Application Routing.
-7. NFC Technology.
-8. RFID read and write Module..
+3. Navigating to a specific location.
+4. Call number functions.
+5. Application Routing.
+6. NFC Technology.
+7. RFID read and write Module.
 # Here are some screenshots of the app!
 
 ![Alt Text](https://github.com/rashedalrashdi/cauMap/blob/master/CAU%20app%20screenshots/Home%20page.png)
