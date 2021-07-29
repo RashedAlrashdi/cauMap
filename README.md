@@ -8,7 +8,6 @@ First, creating a CAU map and collecting data.
 Second, analyzing and geocoding the data.
 Third, utilizing ArcGIS software and its API.
 lastly, implementing the whole process to the app.
-
 Features of the app:
 1. ArcGIS maps.
 2. Firebase Authentication (backend).
@@ -19,8 +18,6 @@ Features of the app:
 7. NFC Technology.
 8. RFID read and write Module..
 # Here are some screenshots of the app!
-
-
 
 ![Alt Text](https://github.com/rashedalrashdi/cauMap/blob/master/CAU%20app%20screenshots/Home%20page.png)
 ![Alt Text](https://github.com/rashedalrashdi/cauMap/blob/master/CAU%20app%20screenshots/Taps%20options.png)
