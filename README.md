@@ -6,5 +6,5 @@ My job was creating a map for CAU that shows its buildings. The user can navigat
 The idea was that new students could get to their classes faster.
 
 
-![GitHub Home page](/CAU app screenshots/Home page.png)
-Format: ![Alt Text](https://github.com/rashedalrashdi/cauMap/blob/master/CAU%20app%20screenshots/Home%20page.png)
+
+![Alt Text](https://github.com/rashedalrashdi/cauMap/blob/master/CAU%20app%20screenshots/Home%20page.png)
