@@ -6,4 +6,4 @@ My job was creating a map for CAU that shows its buildings. The user can navigat
 The idea was that new students could get to their classes faster.
 
 
-![GitHub Home page](/images/Home page.png
+![GitHub Home page](/CAU app screenshots/Home page.png
