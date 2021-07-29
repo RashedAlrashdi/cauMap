@@ -7,3 +7,4 @@ The idea was that new students could get to their classes faster.
 
 
 ![GitHub Home page](/CAU app screenshots/Home page.png)
+Format: ![Alt Text](url)
