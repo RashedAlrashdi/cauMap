@@ -18,8 +18,6 @@ Features of the app:
 6. Application Routing.
 7. NFC Technology.
 8. RFID read and write Module..
-
-
 # Here are some screenshots of the app!
 
 
