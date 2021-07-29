@@ -3,7 +3,6 @@
 The idea behind the project was to revamp old CAU app. Therefore, my colleague and I decided to form a team and build an application for Clark Atlanta University. 
 The app was completed with Angular and Ionic frameworks which allow us to use JavaScript, HTML, and CSS. 
 It contains three tabs: Home tab, Virtual tour tab, and Virtual paw card tab.
-
 My task was as follow:
 First, creating a CAU map and collecting data.
 Second, analyzing and geocoding the data.
@@ -19,7 +18,6 @@ Features of the app:
 6. Application Routing.
 7. NFC Technology.
 8. RFID read and write Module..
-
 
 
 # Here are some screenshots of the app!
