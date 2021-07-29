@@ -14,5 +14,5 @@ The idea was that new students could get to their classes faster.
 ![Alt Text](https://github.com/rashedalrashdi/cauMap/blob/master/CAU%20app%20screenshots/Admission%20tap.png)
 ![Alt Text](https://github.com/rashedalrashdi/cauMap/blob/master/CAU%20app%20screenshots/Trevor%20Anett%20Hall%20building.png)
 ![Alt Text](https://github.com/rashedalrashdi/cauMap/blob/master/CAU%20app%20screenshots/Panther%20Paw%20Cards.png)
-![Alt Text](https://github.com/rashedalrashdi/cauMap/blob/master/CAU%20app%20screenshots/Home%20page.png)
+![Alt Text](https://github.com/rashedalrashdi/cauMap/blob/master/CAU%20app%20screenshots/Panther%20Paw%20Cards%20options.PNG)
 ![Alt Text](https://github.com/rashedalrashdi/cauMap/blob/master/CAU%20app%20screenshots/Home%20page.png)
