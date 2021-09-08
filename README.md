@@ -1,4 +1,4 @@
-# Clark Atlanta University Application.
+# Clark Atlanta University Application with screenshots of the app.
 
 The idea behind the project was to revamp old CAU app. Therefore, my colleague and I decided to form a team and build an application for Clark Atlanta University. 
 The app was completed with Angular and Ionic frameworks which allow us to use JavaScript, HTML, and CSS. 
