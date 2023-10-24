@@ -1,7 +1,6 @@
 # CAU Virtual Tour Application (Cross-Platform) with screenshots of the app.
 
-The idea behind the project was to revamp old CAU app. Therefore, my colleague and I decided to form a team and build an application for Clark Atlanta University. 
-The app was completed with Angular and Ionic frameworks which allow us to use JavaScript, HTML, and CSS. 
+The app was built with Angular and Ionic frameworks which allowed us to use JavaScript, HTML, and CSS. 
 It contains three tabs: Home tab, Virtual tour tab, and Virtual paw card tab.
 My task was as follow:
 First, creating a CAU map and collecting data.
